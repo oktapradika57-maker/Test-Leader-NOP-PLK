@@ -13,7 +13,7 @@ from google.oauth2.service_account import Credentials
 # ==========================================
 EVALUATOR_EMAIL = "email_anda@gmail.com"          # Ganti dengan email resmi Anda
 EVALUATOR_PIN = "123456"                          # PIN khusus membuka tab Ruang Evaluator
-EVALUATOR_WA = "6281234567890"                    # Nomor WA Anda (diawali 62)
+EVALUATOR_WA = "08115251515"                    # Nomor WA Anda (diawali 62)
 APP_BASE_URL = "https://nama-app-anda.streamlit.app"  # URL aplikasi Streamlit Anda
 
 SPREADSHEET_TITLE = "Request Operational NOP Palangkaraya (Jawaban)"
